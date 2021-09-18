@@ -67,5 +67,5 @@ int main(){
     cout << "\nPixels in 4x3 2-dimensional array (CMYK values):\n" << endl;
     printCMYKPixelsInVectorizedFormat(rowsOfPixels, converty);
 
-	return 0;
+    return 0;
 }
